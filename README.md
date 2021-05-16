@@ -1,3 +1,3 @@
 # test__card
-Установить node_modules
-1. запуск - test__card-main/dist/gulp
+1. Установить node_modules - test__card-main/npm install --save-dev gulp
+2. запуск - test__card-main/dist/gulp
